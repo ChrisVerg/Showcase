@@ -1,2 +1,2 @@
 # Showcase
-Projects I have done Independent of my assignments as WozU 
+Projects done independent from WozU assignments
